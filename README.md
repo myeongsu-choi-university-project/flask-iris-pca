@@ -65,4 +65,4 @@ Project
 ```
 
 ## 결과
-![alt text](image_for_READEME/image.png)
+![alt text](image_for_README/image.png)
